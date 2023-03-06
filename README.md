@@ -1,2 +1,5 @@
 # Profitable-Apps
-This project was done over jupyter notebooks with an initial draft completed with the use of indexing through my data set before moving the entire project onto a dataframe and using pandas to complete the same analysis for the sake of clarity.
+I completed this project using Jupyter Notebooks. Initially, I utilized indexing through my dataset to create an initial draft. Later on, I moved the entire project onto a dataframe and used pandas to perform the same analysis for the sake of clarity.
+
+
+
